@@ -50,7 +50,7 @@ public class Andmebaas {
             tulemus.close();
             stat.close();
 
-
+//ksksks
             return true;
 
 
